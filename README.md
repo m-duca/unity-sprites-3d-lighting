@@ -25,16 +25,13 @@ This repository provides a simple setup for enabling Unity Native 3D lighting an
 
 1. Clone or download this repository  
 2. Import the files into your Unity project  
-3. Assign `Mat_Sprite_Shadow` to your Sprite Renderer  
-4. Add `SpriteShadowCaster` to the desired GameObject  
-5. Configure your scene lights and shadows  
 
 ---
 # ⚒️ Usage
 
 1. Attach the `SpriteShadowCaster` component to any GameObject containing a Sprite Renderer  
 2. Assign `Mat_Sprite_Shadow` to the Sprite Renderer material slot  
-3. Add 3D lights to the scene
+3. Configure your scene lights and shadows  
 
    
 ---
