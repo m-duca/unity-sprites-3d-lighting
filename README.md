@@ -2,6 +2,10 @@
 
 This repository provides a simple setup for enabling Unity Native 3D lighting and shadow casting on Sprite Renderers, making it easier to create hybrid 2D/3D visual styles and atmospheric scenes.
 
+<p align="center">
+  <img src="./ReadmeAssets/lighting_example.gif" alt="Lighting Example" />
+</p>
+
 ---
 ## 📦 Included Assets
 - `ShaderGraph_Sprite_Shadow`  
