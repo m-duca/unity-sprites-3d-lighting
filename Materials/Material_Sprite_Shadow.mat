@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mat_Sprite_Shadow
-  m_Shader: {fileID: -6465566751694194690, guid: be8a8b01247e8654693645799ac2f0fd, type: 3}
+  m_Name: Material_Sprite_Shadow
+  m_Shader: {fileID: -6465566751694194690, guid: cd860d5b0aa670f46a805389c0a03df8, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -57,6 +57,8 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _spriteflip: 0
+    - _spriteflip_1: 0
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
